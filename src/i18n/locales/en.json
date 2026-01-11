@@ -1,0 +1,447 @@
+{
+  "common": {
+    "brandName": "Weican",
+    "contact": "Contact Us",
+    "learnMore": "Learn More",
+    "viewDetails": "View Details",
+    "immediately": "Consult Now",
+    "submit": "Submit",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "message": "Message"
+  },
+  "header": {
+    "products": "Products",
+    "solutions": "Restaurant Types",
+    "pricing": "POS Plans",
+    "resources": "Resources",
+    "news": "News",
+    "about": "About Us",
+    "productItems": {
+      "pos": "POS System",
+      "kiosk": "Self-Service Kiosk",
+      "online": "Online Ordering",
+      "member": "Member System"
+    },
+    "solutionItems": {
+      "fast": "Fast Food Restaurant",
+      "dine-in": "Dine-in Restaurant",
+      "tea": "Bubble Tea & Dessert Shop",
+      "hotpot": "Hot Pot Restaurant"
+    }
+  },
+  "home": {
+    "title": "Weican POS",
+    "subtitle": "Leading Restaurant System Solutions",
+    "description": "Intelligent restaurant solutions customized for restaurants, helping all types of restaurants increase efficiency, reduce labor, and increase revenue. Weican - your restaurant's best helper!",
+    "restaurantTypes": "Best Solutions for All Types of Restaurants",
+    "betterPrice": "Better Price, Better Experience",
+    "betterPriceDesc": "Let Weican show you how to save more with the latest restaurant technology",
+    "customerCases": "Why They Choose Weican",
+    "productShowcase": "Chosen by Thousands of Brands",
+    "productShowcaseDesc": "The Best Restaurant System Product Portfolio for You",
+    "readyUpgrade": "Ready to Upgrade Your Restaurant?",
+    "readyUpgradeDesc": "Fill out the form to schedule a free demo, and we'll show you in detail how our POS system can help your restaurant business.",
+    "getDemo": "Get Free Demo",
+    "restaurantTypesList": {
+      "fast": { "name": "Fast Food Restaurant", "description": "Fast and efficient ordering solutions" },
+      "dine-in": { "name": "Dine-in Restaurant", "description": "Complete restaurant management system" },
+      "tea": { "name": "Bubble Tea & Dessert Shop", "description": "Professional beverage shop solutions" },
+      "hotpot": { "name": "Hot Pot Restaurant", "description": "Special features for hot pot restaurants" },
+      "buffet": { "name": "AYCE Buffet", "description": "Dedicated system for buffet restaurants" },
+      "korean": { "name": "Korean Restaurant", "description": "Customized solutions for Korean restaurants" },
+      "japanese": { "name": "Japanese Restaurant", "description": "Solutions for Japanese cuisine restaurants" },
+      "southeast": { "name": "Southeast Asian Restaurant", "description": "Southeast Asian cuisine restaurant system" }
+    },
+    "customerCasesList": {
+      "case1": { "quote": "Restaurant groups use Weican, stable and efficient!", "name": "Chubby Cattle BBQ", "location": "Los Angeles" },
+      "case2": { "quote": "Servers use Weican handheld, table turnover doubled!", "name": "Jongro", "location": "New York" },
+      "case3": { "quote": "Weican is perfect for bubble tea shops, features are spot on!", "name": "Molly Tea", "location": "San Francisco" },
+      "case4": { "quote": "Member repurchase increased 30%, Weican's marketing features are amazing!", "name": "Bakery 1908", "location": "Orlando" },
+      "case5": { "quote": "Customers praise our smooth online ordering, all thanks to Weican!", "name": "Crafty Crab", "location": "Miami" },
+      "case6": { "quote": "Fast food needs efficiency? Weican makes order taking and serving twice as fast!", "name": "Wallace", "location": "Los Angeles" }
+    },
+    "productsList": {
+      "pos": { "name": "POS System", "description": "Powerful cashier management system" },
+      "handheld": { "name": "Handheld POS", "description": "Mobile ordering and payment device" },
+      "tablet": { "name": "Tablet Ordering", "description": "Table-side self-service ordering tablet" },
+      "kiosk": { "name": "Self-Service Kiosk", "description": "In-store self-service ordering terminal" },
+      "kds": { "name": "Kitchen Display System", "description": "Kitchen order display management" },
+      "delivery": { "name": "Delivery Platform Integration", "description": "Unified management of multi-platform orders" }
+    }
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Comprehensive Restaurant Management System Solutions"
+  },
+  "solutions": {
+    "title": "Restaurant Type Solutions",
+    "subtitle": "Customized solutions for different restaurant types"
+  },
+  "pricing": {
+    "title": "POS Plans",
+    "subtitle": "Choose the best solution for your restaurant",
+    "pricePlan": "Pricing Plans",
+    "recommended": "Recommended",
+    "basic": {
+      "name": "Basic",
+      "price": "299",
+      "period": "/month",
+      "features": {
+        "feature1": "POS Cashier System",
+        "feature2": "Basic Reports",
+        "feature3": "Online Customer Support",
+        "feature4": "Data Backup"
+      },
+      "button": "Consult Now"
+    },
+    "professional": {
+      "name": "Professional",
+      "price": "599",
+      "period": "/month",
+      "features": {
+        "feature1": "All Basic Features",
+        "feature2": "Member Management System",
+        "feature3": "Marketing Tools",
+        "feature4": "Multi-Store Management",
+        "feature5": "Advanced Report Analysis",
+        "feature6": "Priority Technical Support"
+      },
+      "button": "Consult Now"
+    },
+    "enterprise": {
+      "name": "Enterprise",
+      "price": "Custom",
+      "features": {
+        "feature1": "All Professional Features",
+        "feature2": "Custom Development",
+        "feature3": "Dedicated Account Manager",
+        "feature4": "7x24 Hours Support",
+        "feature5": "Private Data Deployment",
+        "feature6": "Training Services"
+      },
+      "button": "Contact Sales"
+    },
+    "whyChoose": "Why Choose Weican",
+    "reasons": {
+      "reason1": {
+        "title": "Cost-Effective",
+        "description": "More affordable than traditional POS systems with more powerful features"
+      },
+      "reason2": {
+        "title": "Quick Deployment",
+        "description": "Ready to use immediately, no complex configuration, quick launch"
+      },
+      "reason3": {
+        "title": "Data-Driven",
+        "description": "Real-time data analysis to help you make better business decisions"
+      },
+      "reason4": {
+        "title": "Continuous Updates",
+        "description": "Regular feature updates, keeping up with industry trends"
+      },
+      "reason5": {
+        "title": "Professional Support",
+        "description": "Professional customer service team, ready to solve your problems anytime"
+      },
+      "reason6": {
+        "title": "Secure & Reliable",
+        "description": "Encrypted data storage with multiple security guarantees"
+      }
+    },
+    "comparison": "Weican VS Other POS",
+    "comparisonTable": {
+      "featureComparison": "Feature Comparison",
+      "weican": "Weican",
+      "traditionalPOS": "Traditional POS",
+      "cloudSync": "Cloud Data Sync",
+      "mobileManagement": "Mobile Management",
+      "memberMarketing": "Member Marketing System",
+      "onlineOrdering": "Online Ordering",
+      "multiStore": "Multi-Store Management",
+      "price": "Price",
+      "moreAffordable": "More Affordable",
+      "higher": "Higher",
+      "extraFee": "Extra Fee Required"
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "We are always ready to provide professional consulting services",
+    "formTitle": "Fill out the form to get a free demo",
+    "formDesc": "Fill out the form to schedule a free demo, and we'll show you in detail how our POS system can help your restaurant business.",
+    "contactInfo": "Contact Information",
+    "workingHours": "Working Hours",
+    "workingHoursWeekday": "Monday to Friday: 9:00 - 18:00",
+    "workingHoursWeekend": "Saturday: 9:00 - 17:00",
+    "whyContact": "Why Contact Us?",
+    "whyContact1": "One-on-one professional consultant service",
+    "whyContact2": "Free demo and trial",
+    "whyContact3": "Customized solutions",
+    "whyContact4": "7x24 hours technical support",
+    "restaurantName": "Restaurant Name",
+    "restaurantType": "Restaurant Type",
+    "submitConsult": "Submit Inquiry",
+    "submitSuccess": "Submitted successfully! We will contact you as soon as possible.",
+    "submitError": "Please complete the form information"
+  },
+  "news": {
+    "title": "Restaurant News",
+    "subtitle": "Stay updated with the latest restaurant industry trends and developments",
+    "readMore": "Read More",
+    "articles": {
+      "article1": {
+        "title": "2025 Restaurant Industry Digital Transformation Trend Analysis",
+        "summary": "With the development of technology, the restaurant industry is undergoing an unprecedented digital transformation. This article will provide an in-depth analysis of the main trends in the restaurant industry in 2025...",
+        "category": "Industry Trends"
+      },
+      "article2": {
+        "title": "How to Improve Restaurant Operational Efficiency with POS Systems",
+        "summary": "Modern POS systems are not just cashier tools, but the core of restaurant operations management. Learn how to fully utilize POS systems to improve efficiency...",
+        "category": "Operations Management"
+      },
+      "article3": {
+        "title": "Member Marketing: 5 Strategies to Increase Customer Repurchase Rate",
+        "summary": "Member marketing is an important means to increase restaurant revenue. This article shares 5 proven member marketing strategies to help you increase customer repurchase rate...",
+        "category": "Marketing Strategy"
+      },
+      "article4": {
+        "title": "Investment Return Analysis of Self-Service Kiosks",
+        "summary": "Self-service kiosks are becoming the choice of more and more restaurants. This article provides a detailed analysis of the investment costs and expected returns of self-service kiosks...",
+        "category": "Smart Hardware"
+      },
+      "article5": {
+        "title": "Multi-Store Management: Digital Solutions for Chain Restaurants",
+        "summary": "Chain restaurants face the challenge of multi-store management. Learn how to achieve unified management through digital systems and improve overall operational efficiency...",
+        "category": "Chain Management"
+      },
+      "article6": {
+        "title": "Delivery Platform Integration: Unified Management of Multi-Platform Orders",
+        "summary": "Restaurants often need to connect to multiple delivery platforms. How to manage these orders uniformly? This article introduces best practices for delivery platform integration...",
+        "category": "Platform Integration"
+      }
+    },
+    "categories": {
+      "trend": "Industry Trends",
+      "management": "Operations Management",
+      "marketing": "Marketing Strategy",
+      "hardware": "Smart Hardware",
+      "chain": "Chain Management",
+      "integration": "Platform Integration"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Professional Restaurant System Solutions Provider",
+    "companyIntro": "Company Introduction",
+    "intro1": "Weican is a technology company focused on restaurant system solutions, committed to providing intelligent and digital management systems for all types of restaurants. We have rich industry experience and a professional technical team, providing quality services to thousands of restaurants.",
+    "intro2": "Our mission is to help restaurants improve operational efficiency, reduce operating costs, and increase revenue through innovative technology solutions, allowing restaurant operators to focus on providing quality food and service.",
+    "advantages": "Our Advantages",
+    "advantage1": {
+      "title": "Technology Innovation",
+      "description": "Adopting the latest technology architecture to ensure stable and efficient systems"
+    },
+    "advantage2": {
+      "title": "Professional Team",
+      "description": "Experienced technical and service teams"
+    },
+    "advantage3": {
+      "title": "Customized Services",
+      "description": "Providing customized solutions for different restaurant types"
+    },
+    "advantage4": {
+      "title": "Continuous Optimization",
+      "description": "Constantly updating and iterating to meet restaurant development needs"
+    },
+    "contact": "Contact Us",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address"
+  },
+  "footer": {
+    "products": "Products",
+    "solutions": "Restaurant Types",
+    "pricing": "POS Plans",
+    "resources": "Resources",
+    "posManagement": "POS Management System",
+    "kiosk": "Self-Service Kiosk",
+    "onlineOrdering": "Online Ordering",
+    "deliveryIntegration": "Delivery Platform Integration",
+    "memberSystem": "Member System",
+    "dineInRestaurant": "Dine-in Restaurant",
+    "fastRestaurant": "Fast Restaurant",
+    "newRestaurant": "New Restaurant",
+    "switchToWeican": "Switch to Weican",
+    "pricePlan": "Pricing Plans",
+    "whyChooseWeican": "Why Choose Weican",
+    "contactUs": "Contact Us",
+    "aboutUs": "About Us",
+    "news": "News",
+    "joinUs": "Join Us",
+    "copyright": "© 2025 Weican Technology Co., Ltd. All rights reserved."
+  },
+  "productDetail": {
+    "intro": "Product Introduction",
+    "coreFeatures": "Core Features",
+    "advantages": "Product Advantages",
+    "pos": {
+      "title": "POS System",
+      "subtitle": "Powerful Cashier Management System",
+      "intro1": "Weican POS system is an intelligent cashier management system designed specifically for restaurants, integrating multiple functions such as cashier, inventory, membership, and reports to help restaurants achieve digital management.",
+      "intro2": "The system supports multiple payment methods including cash, card, mobile payment, etc., with simple and fast operations, greatly improving cashier efficiency.",
+      "intro3": "Real-time data synchronization allows you to grasp restaurant operations anytime, anywhere, and make smarter business decisions.",
+      "feature1": { "title": "Fast Checkout", "description": "Simple and intuitive interface, checkout speed increased by 50%" },
+      "feature2": { "title": "Multiple Payments", "description": "Supports cash, card, WeChat, Alipay and other payment methods" },
+      "feature3": { "title": "Real-time Reports", "description": "Generate sales reports in real-time, data at a glance" },
+      "feature4": { "title": "Inventory Management", "description": "Automatic inventory alerts to avoid stockouts" },
+      "feature5": { "title": "Member Management", "description": "Complete membership system to improve customer loyalty" },
+      "feature6": { "title": "Cloud Sync", "description": "Cloud data storage, real-time sync across multiple devices" },
+      "benefit1": { "title": "Improve Efficiency", "description": "Simplify checkout process, reduce waiting time, improve customer satisfaction" },
+      "benefit2": { "title": "Reduce Costs", "description": "Reduce labor costs, improve operational efficiency, lower operating costs" },
+      "benefit3": { "title": "Data-Driven", "description": "Understand business conditions through data analysis and optimize business strategies" },
+      "benefit4": { "title": "Easy to Use", "description": "Simple and intuitive interface, staff can quickly get started, reduce training costs" }
+    },
+    "kiosk": {
+      "title": "Self-Service Kiosk",
+      "subtitle": "In-store self-service ordering terminal to enhance customer experience",
+      "intro1": "Self-service kiosks allow customers to complete ordering and payment independently, reducing waiting time and improving dining experience.",
+      "intro2": "Supports multiple languages, friendly interface, simple operation, suitable for all types of restaurants.",
+      "intro3": "Seamlessly integrated with POS system, orders synchronized in real-time, no additional manual operation required.",
+      "feature1": { "title": "Touch Operation", "description": "Large screen touch operation, simple and intuitive, suitable for all ages" },
+      "feature2": { "title": "Multi-language Support", "description": "Supports Chinese, English and other language switching" },
+      "feature3": { "title": "Integrated Payment", "description": "Supports multiple payment methods, smooth payment process" },
+      "feature4": { "title": "Real-time Sync", "description": "Orders synchronized to kitchen in real-time, no waiting" },
+      "feature5": { "title": "Mobile Management", "description": "Supports mobile remote management, view data anytime" },
+      "feature6": { "title": "Data Analysis", "description": "Record ordering data, analyze customer preferences" },
+      "benefit1": { "title": "Reduce Labor", "description": "Reduce ordering staff, lower labor costs" },
+      "benefit2": { "title": "Improve Efficiency", "description": "Customers self-order, reduce waiting time" },
+      "benefit3": { "title": "Enhance Experience", "description": "Customers choose independently, better experience" },
+      "benefit4": { "title": "Increase Revenue", "description": "Reduce ordering pressure, increase average order value" }
+    },
+    "online": {
+      "title": "Online Ordering",
+      "subtitle": "Restaurant website and brand app, allowing customers to order online anytime, anywhere",
+      "intro1": "Create a dedicated online ordering platform for restaurants, including restaurant website and brand app, allowing customers to browse menus and place orders anytime, anywhere.",
+      "intro2": "Supports both delivery and in-store pickup modes to meet different customer needs.",
+      "intro3": "Seamlessly integrated with POS system, orders automatically synchronized, no manual processing required.",
+      "feature1": { "title": "Online Menu", "description": "Beautiful menu display with images and detailed descriptions" },
+      "feature2": { "title": "Mobile Responsive", "description": "Perfectly adapted to mobile devices such as phones and tablets" },
+      "feature3": { "title": "Order Tracking", "description": "Track order status in real-time, understand preparation progress" },
+      "feature4": { "title": "Member Points", "description": "Earn points on orders, points can be redeemed for discounts" },
+      "feature5": { "title": "Promotions", "description": "Supports various marketing activities such as coupons, discounts" },
+      "feature6": { "title": "Online Support", "description": "Online customer service support, timely answer customer questions" },
+      "benefit1": { "title": "Expand Coverage", "description": "Online channels expand service scope and attract more customers" },
+      "benefit2": { "title": "Improve Convenience", "description": "Customers can order anytime, anywhere, more convenient" },
+      "benefit3": { "title": "Increase Revenue", "description": "Online orders increase restaurant revenue sources" },
+      "benefit4": { "title": "Brand Building", "description": "Dedicated platform enhances brand image and awareness" }
+    },
+    "member": {
+      "title": "Member System",
+      "subtitle": "Complete membership management system to improve customer repurchase rate",
+      "intro1": "Weican member system provides a complete membership management solution, including member registration, points management, tier system, marketing activities and other functions.",
+      "intro2": "Through the member system, restaurants can better understand customers, provide personalized services, and improve customer satisfaction and repurchase rate.",
+      "intro3": "The system supports various member marketing activities such as coupons, birthday gifts, recharge bonuses, etc., effectively improving member activity.",
+      "feature1": { "title": "Member Registration", "description": "Multiple registration methods, quickly accumulate members" },
+      "feature2": { "title": "Points System", "description": "Earn points on purchases, points can be redeemed for discounts" },
+      "feature3": { "title": "Coupons", "description": "Supports various coupon types, flexible marketing" },
+      "feature4": { "title": "Member Tiers", "description": "Multi-tier membership system, enjoy different benefits" },
+      "feature5": { "title": "Marketing Activities", "description": "Supports various marketing activities to improve activity" },
+      "feature6": { "title": "Data Analysis", "description": "Member data analysis to understand consumption habits" },
+      "benefit1": { "title": "Improve Repurchase", "description": "Member benefits attract customers to repeat purchases" },
+      "benefit2": { "title": "Precise Marketing", "description": "Based on member data, precisely push marketing activities" },
+      "benefit3": { "title": "Increase Stickiness", "description": "Membership system enhances customer stickiness" },
+      "benefit4": { "title": "Data Insights", "description": "Understand customer preferences through member data" }
+    }
+  },
+  "solutionDetail": {
+    "intro": "Solution Introduction",
+    "coreFeatures": "Core Features",
+    "scenarios": "Applicable Scenarios",
+    "advantages": "Solution Advantages",
+    "fast": {
+      "title": "Fast Food Restaurant Solution",
+      "subtitle": "Fast and efficient ordering and checkout solution",
+      "intro1": "Fast food restaurants need fast ordering and serving processes. Our solution is specifically designed for fast food restaurants to help you improve service efficiency and reduce customer waiting time.",
+      "intro2": "Through self-service kiosks and fast checkout systems, customers can quickly complete ordering and payment, and the kitchen can receive orders in real-time, greatly improving overall efficiency.",
+      "intro3": "The system supports features such as combo meals and fast order output, perfectly adapted to the operation mode of fast food restaurants.",
+      "feature1": { "title": "Fast Ordering", "description": "Self-service kiosk, customers quickly complete ordering" },
+      "feature2": { "title": "Fast Payment", "description": "Multiple payment methods, smooth payment process" },
+      "feature3": { "title": "Kitchen Display", "description": "Orders displayed in real-time, kitchen serves quickly" },
+      "feature4": { "title": "Inventory Management", "description": "Real-time inventory management to avoid stockouts" },
+      "feature5": { "title": "Data Analysis", "description": "Sales data analysis to optimize operations" },
+      "feature6": { "title": "Combo Management", "description": "Flexible combo combinations to increase average order value" },
+      "scenario1": "Suitable for all types of fast food restaurants and fast food chains",
+      "scenario2": "Suitable for restaurants that need fast serving",
+      "scenario3": "Suitable for restaurants with high traffic",
+      "scenario4": "Suitable for restaurants that need to reduce labor costs",
+      "benefit1": { "title": "Improve Efficiency", "description": "Ordering and serving speed increased by more than 50%" },
+      "benefit2": { "title": "Reduce Labor", "description": "Reduce ordering staff, lower labor costs" },
+      "benefit3": { "title": "Enhance Experience", "description": "Reduce waiting time, improve customer satisfaction" },
+      "benefit4": { "title": "Increase Revenue", "description": "Optimize product mix through data analysis" }
+    },
+    "dineIn": {
+      "title": "Dine-in Restaurant Solution",
+      "subtitle": "Complete restaurant management system",
+      "intro1": "Dine-in restaurants need a complete restaurant management system including table management, server ordering, member management and other functions.",
+      "intro2": "Our solution provides comprehensive restaurant management functions to help you improve service quality and increase customer satisfaction.",
+      "intro3": "The system supports features such as reservation management, real-time table status updates, member marketing, etc., making restaurant operations more efficient.",
+      "feature1": { "title": "Table Management", "description": "Real-time table status, intelligent table allocation" },
+      "feature2": { "title": "Server Ordering", "description": "Handheld POS, servers order on the move" },
+      "feature3": { "title": "Reservation Management", "description": "Online reservations, reservation reminders" },
+      "feature4": { "title": "Member Management", "description": "Membership system to improve repurchase rate" },
+      "feature5": { "title": "Multiple Payments", "description": "Supports multiple payment methods" },
+      "feature6": { "title": "Business Analysis", "description": "Detailed business data analysis" },
+      "scenario1": "Suitable for mid-to-high-end dine-in restaurants",
+      "scenario2": "Suitable for restaurants that need table management",
+      "scenario3": "Suitable for restaurants that need to improve service quality",
+      "scenario4": "Suitable for restaurants that need member management",
+      "benefit1": { "title": "Improve Service", "description": "Mobile ordering, more convenient service" },
+      "benefit2": { "title": "Increase Revenue", "description": "Member marketing to improve repurchase rate" },
+      "benefit3": { "title": "Optimize Management", "description": "Data-driven, optimize business decisions" },
+      "benefit4": { "title": "Enhance Experience", "description": "Reduce waiting, improve customer satisfaction" }
+    },
+    "tea": {
+      "title": "Bubble Tea & Dessert Shop Solution",
+      "subtitle": "Professional beverage shop solution",
+      "intro1": "Bubble tea shops and dessert shops need features such as fast order output, flavor customization, and member marketing.",
+      "intro2": "Our solution is specifically designed for beverage shops, supporting multiple flavor combinations, fast order output, member points and other functions.",
+      "intro3": "The system can help you improve order output efficiency, increase customer repurchase rate, and improve overall business efficiency.",
+      "feature1": { "title": "Fast Order Output", "description": "Fast ordering and output, reduce waiting" },
+      "feature2": { "title": "Flavor Customization", "description": "Supports multiple flavors and topping combinations" },
+      "feature3": { "title": "Member Points", "description": "Earn points on purchases, improve repurchase rate" },
+      "feature4": { "title": "Promotions", "description": "Supports various promotional activities" },
+      "feature5": { "title": "Online Ordering", "description": "Supports online ordering, order in advance" },
+      "feature6": { "title": "Sales Analysis", "description": "Analyze best-selling products, optimize menu" },
+      "scenario1": "Suitable for all types of bubble tea shops and beverage shops",
+      "scenario2": "Suitable for dessert shops and coffee shops",
+      "scenario3": "Suitable for shops that need fast order output",
+      "scenario4": "Suitable for shops that need member marketing",
+      "benefit1": { "title": "Improve Efficiency", "description": "Fast order output, reduce queues" },
+      "benefit2": { "title": "Increase Repurchase", "description": "Member marketing to improve repurchase rate" },
+      "benefit3": { "title": "Optimize Menu", "description": "Data analysis to optimize product mix" },
+      "benefit4": { "title": "Enhance Experience", "description": "Online ordering, order in advance" }
+    },
+    "hotpot": {
+      "title": "Hot Pot Restaurant Solution",
+      "subtitle": "Special features for hot pot restaurants",
+      "intro1": "Hot pot restaurants need features such as time management, table management, and multi-person ordering.",
+      "intro2": "Our solution is specifically designed for hot pot restaurants, supporting time-based billing, table management, multi-person ordering and other functions.",
+      "intro3": "The system can help you improve service efficiency, optimize dining experience, and increase customer satisfaction.",
+      "feature1": { "title": "Time Management", "description": "Automatic timing, accurate billing" },
+      "feature2": { "title": "Table Management", "description": "Real-time table status management" },
+      "feature3": { "title": "Multi-person Ordering", "description": "Supports multiple people ordering at the same time" },
+      "feature4": { "title": "Soup Base Management", "description": "Multiple soup base options, flexible combinations" },
+      "feature5": { "title": "Member Management", "description": "Membership system to improve repurchase" },
+      "feature6": { "title": "Business Analysis", "description": "Detailed business data analysis" },
+      "scenario1": "Suitable for all types of hot pot restaurants",
+      "scenario2": "Suitable for restaurants that need time-based billing",
+      "scenario3": "Suitable for restaurants that need table management",
+      "scenario4": "Suitable for restaurants that need multi-person ordering",
+      "benefit1": { "title": "Accurate Billing", "description": "Automatic timing to avoid billing disputes" },
+      "benefit2": { "title": "Improve Efficiency", "description": "Fast ordering, reduce waiting" },
+      "benefit3": { "title": "Optimize Experience", "description": "Multi-person ordering, better experience" },
+      "benefit4": { "title": "Increase Revenue", "description": "Member marketing to improve repurchase rate" }
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "common": {
+    "brandName": "微餐",
+    "contact": "联系我们",
+    "learnMore": "了解更多",
+    "viewDetails": "查看详情",
+    "immediately": "立即咨询",
+    "submit": "提交",
+    "name": "姓名",
+    "phone": "电话",
+    "email": "邮箱",
+    "message": "留言"
+  },
+  "header": {
+    "products": "产品功能",
+    "solutions": "餐厅类型",
+    "pricing": "POS方案",
+    "resources": "更多资源",
+    "news": "餐饮资讯",
+    "about": "关于我们",
+    "productItems": {
+      "pos": "POS系统",
+      "kiosk": "自助点餐机",
+      "online": "在线点餐",
+      "member": "会员系统"
+    },
+    "solutionItems": {
+      "fast": "快餐厅",
+      "dine-in": "堂食餐厅",
+      "tea": "奶茶店",
+      "hotpot": "火锅店"
+    }
+  },
+  "home": {
+    "title": "微餐 POS",
+    "subtitle": "餐饮系统解决方案引领者",
+    "description": "专为餐厅定制的智能餐饮解决方案，帮助各类餐厅增加效率、减少人工、增加收入。微餐——您餐厅的好帮手！",
+    "restaurantTypes": "为各类餐厅提供最佳解决方案",
+    "betterPrice": "更优的价格，更佳的体验",
+    "betterPriceDesc": "让微餐向您展示如何利用最新餐饮科技帮您省更多",
+    "customerCases": "他们选择微餐的原因",
+    "productShowcase": "全美上千家品牌的共同选择",
+    "productShowcaseDesc": "最适合您的餐饮系统产品组合",
+    "readyUpgrade": "准备好升级您的餐厅了吗？",
+    "readyUpgradeDesc": "填表预约免费演示，我们将为您详细展示我们POS系统如何帮助您的餐饮业务。",
+    "getDemo": "获取免费演示",
+    "restaurantTypesList": {
+      "fast": { "name": "快餐店", "description": "快速高效的点餐解决方案" },
+      "dine-in": { "name": "堂食餐厅", "description": "完整的餐厅管理系统" },
+      "tea": { "name": "奶茶店&甜品店", "description": "专业的饮品店解决方案" },
+      "hotpot": { "name": "火锅店", "description": "适合火锅店的特色功能" },
+      "buffet": { "name": "AYCE自助餐厅", "description": "自助餐厅专用系统" },
+      "korean": { "name": "韩料店", "description": "韩式餐厅定制方案" },
+      "japanese": { "name": "日料店", "description": "日式料理店解决方案" },
+      "southeast": { "name": "东南亚餐厅", "description": "东南亚风味餐厅系统" }
+    },
+    "customerCasesList": {
+      "case1": { "quote": "餐饮集团就用微餐，稳定又高效！", "name": "牛武士", "location": "洛杉矶" },
+      "case2": { "quote": "服务员用微餐手持，翻台快了一倍！", "name": "Jongro", "location": "纽约" },
+      "case3": { "quote": "微餐简直是奶茶店神器，功能太对味了！", "name": "茉莉奶白", "location": "旧金山" },
+      "case4": { "quote": "会员复购涨30%，微餐的营销功能绝了！", "name": "Bakery 1908", "location": "奥兰多" },
+      "case5": { "quote": "顾客都夸我们线上点餐流畅，全靠微餐！", "name": "Crafty Crab", "location": "迈阿密" },
+      "case6": { "quote": "快餐要效率？微餐让接单出餐快一倍！", "name": "华莱士", "location": "洛杉矶" }
+    },
+    "productsList": {
+      "pos": { "name": "POS系统", "description": "功能强大的收银管理系统" },
+      "handheld": { "name": "手持POS", "description": "移动点餐收银设备" },
+      "tablet": { "name": "平板点餐", "description": "桌边自助点餐平板" },
+      "kiosk": { "name": "自助点餐机", "description": "店内自助点餐终端" },
+      "kds": { "name": "厨房显示系统", "description": "厨房订单显示管理" },
+      "delivery": { "name": "外卖平台整合", "description": "多平台订单统一管理" }
+    }
+  },
+  "products": {
+    "title": "产品功能",
+    "subtitle": "全面的餐饮管理系统解决方案"
+  },
+  "solutions": {
+    "title": "餐厅类型解决方案",
+    "subtitle": "为不同餐厅类型提供定制化解决方案"
+  },
+  "pricing": {
+    "title": "POS方案",
+    "subtitle": "选择最适合您餐厅的解决方案",
+    "pricePlan": "价格方案",
+    "recommended": "推荐",
+    "basic": {
+      "name": "基础版",
+      "price": "299",
+      "period": "/月",
+      "features": {
+        "feature1": "POS收银系统",
+        "feature2": "基础报表",
+        "feature3": "在线客服支持",
+        "feature4": "数据备份"
+      },
+      "button": "立即咨询"
+    },
+    "professional": {
+      "name": "专业版",
+      "price": "599",
+      "period": "/月",
+      "features": {
+        "feature1": "所有基础版功能",
+        "feature2": "会员管理系统",
+        "feature3": "营销活动工具",
+        "feature4": "多店管理",
+        "feature5": "高级报表分析",
+        "feature6": "优先技术支持"
+      },
+      "button": "立即咨询"
+    },
+    "enterprise": {
+      "name": "企业版",
+      "price": "定制",
+      "features": {
+        "feature1": "所有专业版功能",
+        "feature2": "定制化开发",
+        "feature3": "专属客户经理",
+        "feature4": "7x24小时支持",
+        "feature5": "数据私有化部署",
+        "feature6": "培训服务"
+      },
+      "button": "联系销售"
+    },
+    "whyChoose": "为什么选择微餐",
+    "reasons": {
+      "reason1": {
+        "title": "性价比高",
+        "description": "相比传统POS系统，价格更优惠，功能更强大"
+      },
+      "reason2": {
+        "title": "快速部署",
+        "description": "即开即用，无需复杂配置，快速上线"
+      },
+      "reason3": {
+        "title": "数据驱动",
+        "description": "实时数据分析，帮助您做出更好的经营决策"
+      },
+      "reason4": {
+        "title": "持续更新",
+        "description": "定期功能更新，紧跟行业趋势"
+      },
+      "reason5": {
+        "title": "专业支持",
+        "description": "专业客服团队，随时为您解决问题"
+      },
+      "reason6": {
+        "title": "安全可靠",
+        "description": "数据加密存储，多重安全保障"
+      }
+    },
+    "comparison": "微餐 VS 其他POS",
+    "comparisonTable": {
+      "featureComparison": "功能对比",
+      "weican": "微餐",
+      "traditionalPOS": "传统POS",
+      "cloudSync": "云端数据同步",
+      "mobileManagement": "移动端管理",
+      "memberMarketing": "会员营销系统",
+      "onlineOrdering": "在线点餐",
+      "multiStore": "多店管理",
+      "price": "价格",
+      "moreAffordable": "更优惠",
+      "higher": "较高",
+      "extraFee": "需额外付费"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "我们随时为您提供专业的咨询服务",
+    "formTitle": "填写表单，获取免费演示",
+    "formDesc": "填表预约免费演示，我们将为您详细展示我们POS系统如何帮助您的餐饮业务。",
+    "contactInfo": "联系方式",
+    "workingHours": "工作时间",
+    "workingHoursWeekday": "周一至周五：9:00 - 18:00",
+    "workingHoursWeekend": "周六：9:00 - 17:00",
+    "whyContact": "为什么选择联系我们？",
+    "whyContact1": "专业顾问一对一服务",
+    "whyContact2": "免费演示和试用",
+    "whyContact3": "定制化解决方案",
+    "whyContact4": "7x24小时技术支持",
+    "restaurantName": "餐厅名称",
+    "restaurantType": "餐厅类型",
+    "submitConsult": "提交咨询",
+    "submitSuccess": "提交成功！我们会尽快与您联系。",
+    "submitError": "请完善表单信息"
+  },
+  "news": {
+    "title": "餐饮资讯",
+    "subtitle": "了解最新的餐饮行业动态和趋势",
+    "readMore": "阅读更多",
+    "articles": {
+      "article1": {
+        "title": "2025年餐饮行业数字化转型趋势分析",
+        "summary": "随着科技的发展，餐饮行业正在经历前所未有的数字化转型。本文将深入分析2025年餐饮行业的主要趋势...",
+        "category": "行业趋势"
+      },
+      "article2": {
+        "title": "如何通过POS系统提升餐厅运营效率",
+        "summary": "现代化的POS系统不仅仅是收银工具，更是餐厅运营管理的核心。了解如何充分利用POS系统提升效率...",
+        "category": "运营管理"
+      },
+      "article3": {
+        "title": "会员营销：提升客户复购率的5大策略",
+        "summary": "会员营销是提升餐厅收入的重要手段。本文分享5个经过验证的会员营销策略，帮助您提升客户复购率...",
+        "category": "营销策略"
+      },
+      "article4": {
+        "title": "自助点餐机的投资回报分析",
+        "summary": "自助点餐机正在成为越来越多餐厅的选择。本文详细分析自助点餐机的投资成本和预期回报...",
+        "category": "智能硬件"
+      },
+      "article5": {
+        "title": "多店管理：连锁餐厅的数字化解决方案",
+        "summary": "连锁餐厅面临着多店管理的挑战。了解如何通过数字化系统实现统一管理，提升整体运营效率...",
+        "category": "连锁管理"
+      },
+      "article6": {
+        "title": "外卖平台整合：统一管理多平台订单",
+        "summary": "餐厅往往需要对接多个外卖平台，如何统一管理这些订单？本文介绍外卖平台整合的最佳实践...",
+        "category": "平台整合"
+      }
+    },
+    "categories": {
+      "trend": "行业趋势",
+      "management": "运营管理",
+      "marketing": "营销策略",
+      "hardware": "智能硬件",
+      "chain": "连锁管理",
+      "integration": "平台整合"
+    }
+  },
+  "about": {
+    "title": "关于我们",
+    "subtitle": "专业的餐饮系统解决方案提供商",
+    "companyIntro": "公司简介",
+    "intro1": "微餐是一家专注于餐饮系统解决方案的科技公司，致力于为各类餐厅提供智能化、数字化的管理系统。我们拥有丰富的行业经验和专业的技术团队，为上千家餐厅提供了优质的服务。",
+    "intro2": "我们的使命是通过创新的技术解决方案，帮助餐厅提升运营效率，降低运营成本，增加营业收入，让餐厅经营者能够专注于提供优质的美食和服务。",
+    "advantages": "我们的优势",
+    "advantage1": {
+      "title": "技术创新",
+      "description": "采用最新的技术架构，确保系统稳定高效"
+    },
+    "advantage2": {
+      "title": "专业团队",
+      "description": "拥有经验丰富的技术和服务团队"
+    },
+    "advantage3": {
+      "title": "定制化服务",
+      "description": "为不同餐厅类型提供定制化解决方案"
+    },
+    "advantage4": {
+      "title": "持续优化",
+      "description": "不断更新迭代，满足餐厅发展需求"
+    },
+    "contact": "联系我们",
+    "email": "邮箱",
+    "phone": "电话",
+    "address": "地址"
+  },
+  "footer": {
+    "products": "产品功能",
+    "solutions": "餐厅类型",
+    "pricing": "POS方案",
+    "resources": "更多资源",
+    "posManagement": "POS管理系统",
+    "kiosk": "自助点餐机",
+    "onlineOrdering": "在线点餐",
+    "deliveryIntegration": "外卖平台整合",
+    "memberSystem": "会员系统",
+    "dineInRestaurant": "堂食餐厅",
+    "fastRestaurant": "快餐厅",
+    "newRestaurant": "新开餐厅",
+    "switchToWeican": "切换到微餐",
+    "pricePlan": "价格方案",
+    "whyChooseWeican": "为什么选择微餐",
+    "contactUs": "联系我们",
+    "aboutUs": "关于我们",
+    "news": "餐饮资讯",
+    "joinUs": "加入我们",
+    "copyright": "© 2025 微餐科技有限公司. 保留所有权利."
+  },
+  "productDetail": {
+    "intro": "产品简介",
+    "coreFeatures": "核心功能",
+    "advantages": "产品优势",
+    "pos": {
+      "title": "POS系统",
+      "subtitle": "功能强大的收银管理系统",
+      "intro1": "微餐POS系统是专为餐厅设计的智能收银管理系统，集成了收银、库存、会员、报表等多项功能，帮助餐厅实现数字化管理。",
+      "intro2": "系统支持多种支付方式，包括现金、刷卡、移动支付等，操作简单快捷，大幅提升收银效率。",
+      "intro3": "实时数据同步，让您随时随地掌握餐厅经营状况，做出更明智的经营决策。",
+      "feature1": { "title": "快速收银", "description": "简洁直观的操作界面，收银速度提升50%" },
+      "feature2": { "title": "多种支付", "description": "支持现金、刷卡、微信、支付宝等多种支付方式" },
+      "feature3": { "title": "实时报表", "description": "实时生成销售报表，数据一目了然" },
+      "feature4": { "title": "库存管理", "description": "自动库存预警，避免缺货断货" },
+      "feature5": { "title": "会员管理", "description": "完整的会员体系，提升客户忠诚度" },
+      "feature6": { "title": "云端同步", "description": "数据云端存储，多设备实时同步" },
+      "benefit1": { "title": "提升效率", "description": "简化收银流程，减少排队时间，提升顾客满意度" },
+      "benefit2": { "title": "降低成本", "description": "减少人工成本，提高运营效率，降低运营成本" },
+      "benefit3": { "title": "数据驱动", "description": "通过数据分析，了解经营状况，优化经营策略" },
+      "benefit4": { "title": "易于使用", "description": "界面简洁直观，员工快速上手，减少培训成本" }
+    },
+    "kiosk": {
+      "title": "自助点餐机",
+      "subtitle": "店内自助点餐终端，提升顾客体验",
+      "intro1": "自助点餐机让顾客可以自主完成点餐和支付，减少排队等待时间，提升用餐体验。",
+      "intro2": "支持多种语言，界面友好，操作简单，适合各类餐厅使用。",
+      "intro3": "与POS系统无缝对接，订单实时同步，无需额外人工操作。",
+      "feature1": { "title": "触摸操作", "description": "大屏触摸操作，简单直观，老少皆宜" },
+      "feature2": { "title": "多语言支持", "description": "支持中文、英文等多种语言切换" },
+      "feature3": { "title": "支付一体化", "description": "支持多种支付方式，支付流程顺畅" },
+      "feature4": { "title": "实时同步", "description": "订单实时同步到厨房，无需等待" },
+      "feature5": { "title": "移动端管理", "description": "支持移动端远程管理，随时查看数据" },
+      "feature6": { "title": "数据分析", "description": "记录点餐数据，分析顾客偏好" },
+      "benefit1": { "title": "减少人工", "description": "减少点餐人员，降低人工成本" },
+      "benefit2": { "title": "提升效率", "description": "顾客自助点餐，减少排队时间" },
+      "benefit3": { "title": "提升体验", "description": "顾客自主选择，体验更佳" },
+      "benefit4": { "title": "增加收入", "description": "减少点餐压力，增加客单价" }
+    },
+    "online": {
+      "title": "在线点餐",
+      "subtitle": "餐厅网站和品牌App，让顾客随时随地在线点餐",
+      "intro1": "为餐厅打造专属的在线点餐平台，包括餐厅网站和品牌App，让顾客可以随时随地浏览菜单、下单点餐。",
+      "intro2": "支持外卖和到店自取两种模式，满足不同顾客需求。",
+      "intro3": "与POS系统无缝对接，订单自动同步，无需人工处理。",
+      "feature1": { "title": "在线菜单", "description": "精美的菜单展示，支持图片和详细介绍" },
+      "feature2": { "title": "移动适配", "description": "完美适配手机、平板等移动设备" },
+      "feature3": { "title": "订单追踪", "description": "实时追踪订单状态，了解制作进度" },
+      "feature4": { "title": "会员积分", "description": "下单获得积分，积分可兑换优惠" },
+      "feature5": { "title": "优惠活动", "description": "支持优惠券、满减等多种营销活动" },
+      "feature6": { "title": "在线客服", "description": "在线客服支持，及时解答顾客疑问" },
+      "benefit1": { "title": "扩大覆盖", "description": "线上渠道扩大服务范围，吸引更多顾客" },
+      "benefit2": { "title": "提升便利", "description": "顾客随时随地可以点餐，更加便利" },
+      "benefit3": { "title": "增加收入", "description": "线上订单增加餐厅收入来源" },
+      "benefit4": { "title": "品牌建设", "description": "专属平台提升品牌形象和认知度" }
+    },
+    "member": {
+      "title": "会员系统",
+      "subtitle": "完善的会员管理系统，提升客户复购率",
+      "intro1": "微餐会员系统提供完整的会员管理解决方案，包括会员注册、积分管理、等级体系、营销活动等功能。",
+      "intro2": "通过会员系统，餐厅可以更好地了解顾客，提供个性化服务，提升客户满意度和复购率。",
+      "intro3": "系统支持多种会员营销活动，如优惠券、生日礼、充值送等，有效提升会员活跃度。",
+      "feature1": { "title": "会员注册", "description": "多种注册方式，快速积累会员" },
+      "feature2": { "title": "积分系统", "description": "消费获得积分，积分可兑换优惠" },
+      "feature3": { "title": "优惠券", "description": "支持多种优惠券类型，灵活营销" },
+      "feature4": { "title": "会员等级", "description": "多级会员体系，享受不同权益" },
+      "feature5": { "title": "营销活动", "description": "支持多种营销活动，提升活跃度" },
+      "feature6": { "title": "数据分析", "description": "会员数据分析，了解消费习惯" },
+      "benefit1": { "title": "提升复购", "description": "会员权益吸引顾客重复消费" },
+      "benefit2": { "title": "精准营销", "description": "基于会员数据，精准推送营销活动" },
+      "benefit3": { "title": "增加粘性", "description": "会员体系增强顾客粘性" },
+      "benefit4": { "title": "数据洞察", "description": "通过会员数据，了解顾客偏好" }
+    }
+  },
+  "solutionDetail": {
+    "intro": "解决方案简介",
+    "coreFeatures": "核心功能",
+    "scenarios": "适用场景",
+    "advantages": "解决方案优势",
+    "fast": {
+      "title": "快餐厅解决方案",
+      "subtitle": "快速高效的点餐收银解决方案",
+      "intro1": "快餐厅需要快速的点餐和出餐流程，我们的解决方案专门为快餐厅设计，帮助您提升服务效率，减少顾客等待时间。",
+      "intro2": "通过自助点餐机和快速收银系统，顾客可以快速完成点餐和支付，厨房可以实时接收订单，大幅提升整体效率。",
+      "intro3": "系统支持套餐组合、快速出单等功能，完美适配快餐厅的运营模式。",
+      "feature1": { "title": "快速点餐", "description": "自助点餐机，顾客快速完成点餐" },
+      "feature2": { "title": "快速支付", "description": "多种支付方式，支付流程顺畅" },
+      "feature3": { "title": "厨房显示", "description": "订单实时显示，厨房快速出餐" },
+      "feature4": { "title": "库存管理", "description": "实时库存管理，避免缺货" },
+      "feature5": { "title": "数据分析", "description": "销售数据分析，优化经营" },
+      "feature6": { "title": "套餐管理", "description": "灵活的套餐组合，提升客单价" },
+      "scenario1": "适合各类快餐厅、快餐连锁店",
+      "scenario2": "适合需要快速出餐的餐厅",
+      "scenario3": "适合人流量大的餐厅",
+      "scenario4": "适合需要减少人工成本的餐厅",
+      "benefit1": { "title": "提升效率", "description": "点餐和出餐速度提升50%以上" },
+      "benefit2": { "title": "减少人工", "description": "减少点餐人员，降低人工成本" },
+      "benefit3": { "title": "提升体验", "description": "减少排队时间，提升顾客满意度" },
+      "benefit4": { "title": "增加收入", "description": "通过数据分析，优化产品组合" }
+    },
+    "dineIn": {
+      "title": "堂食餐厅解决方案",
+      "subtitle": "完整的餐厅管理系统",
+      "intro1": "堂食餐厅需要完整的餐厅管理系统，包括桌台管理、服务员点餐、会员管理等功能。",
+      "intro2": "我们的解决方案提供全方位的餐厅管理功能，帮助您提升服务质量，增加客户满意度。",
+      "intro3": "系统支持预订管理、桌台状态实时更新、会员营销等功能，让餐厅运营更加高效。",
+      "feature1": { "title": "桌台管理", "description": "实时桌台状态，智能分配桌台" },
+      "feature2": { "title": "服务员点餐", "description": "手持POS，服务员移动点餐" },
+      "feature3": { "title": "预订管理", "description": "在线预订，预订提醒" },
+      "feature4": { "title": "会员管理", "description": "会员体系，提升复购率" },
+      "feature5": { "title": "多种支付", "description": "支持多种支付方式" },
+      "feature6": { "title": "经营分析", "description": "详细的经营数据分析" },
+      "scenario1": "适合中高端堂食餐厅",
+      "scenario2": "适合需要桌台管理的餐厅",
+      "scenario3": "适合需要提升服务质量的餐厅",
+      "scenario4": "适合需要会员管理的餐厅",
+      "benefit1": { "title": "提升服务", "description": "移动点餐，服务更便捷" },
+      "benefit2": { "title": "增加收入", "description": "会员营销，提升复购率" },
+      "benefit3": { "title": "优化管理", "description": "数据驱动，优化经营决策" },
+      "benefit4": { "title": "提升体验", "description": "减少等待，提升顾客满意度" }
+    },
+    "tea": {
+      "title": "奶茶店&甜品店解决方案",
+      "subtitle": "专业的饮品店解决方案",
+      "intro1": "奶茶店和甜品店需要快速出单、口味定制、会员营销等功能。",
+      "intro2": "我们的解决方案专门为饮品店设计，支持多种口味组合、快速出单、会员积分等功能。",
+      "intro3": "系统可以帮助您提升出单效率，增加客户复购率，提升整体经营效益。",
+      "feature1": { "title": "快速出单", "description": "快速点餐出单，减少等待" },
+      "feature2": { "title": "口味定制", "description": "支持多种口味和配料组合" },
+      "feature3": { "title": "会员积分", "description": "消费积分，提升复购率" },
+      "feature4": { "title": "优惠活动", "description": "支持多种优惠活动" },
+      "feature5": { "title": "在线点餐", "description": "支持在线点餐，提前下单" },
+      "feature6": { "title": "销售分析", "description": "分析热销产品，优化菜单" },
+      "scenario1": "适合各类奶茶店、饮品店",
+      "scenario2": "适合甜品店、咖啡店",
+      "scenario3": "适合需要快速出单的店铺",
+      "scenario4": "适合需要会员营销的店铺",
+      "benefit1": { "title": "提升效率", "description": "快速出单，减少排队" },
+      "benefit2": { "title": "增加复购", "description": "会员营销，提升复购率" },
+      "benefit3": { "title": "优化菜单", "description": "数据分析，优化产品组合" },
+      "benefit4": { "title": "提升体验", "description": "在线点餐，提前下单" }
+    },
+    "hotpot": {
+      "title": "火锅店解决方案",
+      "subtitle": "适合火锅店的特色功能",
+      "intro1": "火锅店需要计时管理、桌台管理、多人点餐等功能。",
+      "intro2": "我们的解决方案专门为火锅店设计，支持计时计费、桌台管理、多人点餐等功能。",
+      "intro3": "系统可以帮助您提升服务效率，优化用餐体验，增加客户满意度。",
+      "feature1": { "title": "计时管理", "description": "自动计时，精确计费" },
+      "feature2": { "title": "桌台管理", "description": "实时桌台状态管理" },
+      "feature3": { "title": "多人点餐", "description": "支持多人同时点餐" },
+      "feature4": { "title": "锅底管理", "description": "多种锅底选择，灵活组合" },
+      "feature5": { "title": "会员管理", "description": "会员体系，提升复购" },
+      "feature6": { "title": "经营分析", "description": "详细的经营数据分析" },
+      "scenario1": "适合各类火锅店",
+      "scenario2": "适合需要计时计费的餐厅",
+      "scenario3": "适合需要桌台管理的餐厅",
+      "scenario4": "适合需要多人点餐的餐厅",
+      "benefit1": { "title": "精确计费", "description": "自动计时，避免计费纠纷" },
+      "benefit2": { "title": "提升效率", "description": "快速点餐，减少等待" },
+      "benefit3": { "title": "优化体验", "description": "多人点餐，体验更佳" },
+      "benefit4": { "title": "增加收入", "description": "会员营销，提升复购率" }
+    }
+  }
+}
